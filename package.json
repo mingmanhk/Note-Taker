@@ -1,0 +1,11 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servers.js",
+  "license": "MIT",
+   "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.0"
+  }
+}
