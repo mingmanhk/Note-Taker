@@ -44,7 +44,7 @@ To run this program required path, fs, uuid, util and express.
 1. To server the Express.js server, run the following command: npm start
 2. This will start localhost server on PORT 3001. 
 3. Open browser and type http://localhost:3001/ to run this application on your local machine.
-<img src="assets/demo.jpg"/>
+<img src="assets/demo.gif"/>
 
 ## Credits
 Victor Lam
